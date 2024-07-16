@@ -1,7 +1,6 @@
-using System;
-namespace konsolepp
+namespace ConsoleApp
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
