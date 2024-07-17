@@ -6,4 +6,6 @@ _">" işaretinden sonraki ilk kısım Cohorttaki başlıkları ifade etmektedir.
 
 
 
-**[firstTask.cs](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** > İlk Uygulamam - _Basit Console çıktısı._
+**[firstTask.cs](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** > Week1 - Pratik İlk Uygulamam - _Basit Console çıktısı._
+
+**[ifElse.cs](https://github.com/aydinumu/PatikaTasks/blob/main/ifElse.cs)** > Week 1 - Pratik - If / Else - _If-Else kontrol yapısı ve ternary operator_
