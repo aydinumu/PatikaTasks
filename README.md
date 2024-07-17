@@ -1,7 +1,9 @@
-**Bu dosya içerisinde Patika+ Eğitimlerindeki Pratikleri Bulabilirsiniz**
+>  [!TIP]
+**Bu dosya içerisinde Patika+ Eğitimlerindeki Tamamladığım Pratikleri Bulabilirsiniz**
 
-_Sadece cs dosyalarını yükleyeceğim. Hangi dosyanın hangi pratik uygulaması için olduğunu aşağıdaki listeden görebilirsiniz._
 
+
+> [!NOTE]
 _">" işaretinden sonraki ilk kısım Cohorttaki başlıkları ifade etmektedir._
 
 
