@@ -43,6 +43,8 @@ namespace ConsoleApp
                 default: //Kullanıcının seçenekler dışında bir şey yazması durumunda
                     Console.WriteLine("Manavımızda bu ürün ne yazık ki bulunmamaktadır.");
                     break;
+
+                    //Hızlı çalışması ve okunabilirliği açısından switch case yapısı daha mantıklı, çünkü tek koşul sorgulanıyor.
             }
         }
     }
