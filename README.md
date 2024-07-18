@@ -20,7 +20,7 @@ _İsimlendirme Cohort başlıklarıyla yapılmıştır_
 
 + **[Week 1 - Pratik - If / Else ve Switch-Case](https://github.com/aydinumu/PatikaTasks/blob/main/switchCase.cs)**
 
-+ **[Week 1 - Pratik - Kim Milyoner Olmak İster ?]((https://github.com/aydinumu/PatikaTasks/blob/main/milyoner.cs))**
++ **[Week 1 - Pratik - Kim Milyoner Olmak İster ?](https://github.com/aydinumu/PatikaTasks/blob/main/milyoner.cs)**
 
  ----------------------------------------
 
