@@ -1,25 +1,35 @@
+
+> [!CAUTION]
+> ### UMUT AYDIN Patika Pratikleri Özet Sayfası
+
+
+
 >  [!TIP]
 **Bu dosya içerisinde Patika+ Eğitimlerindeki Tamamladığım Pratikleri Bulabilirsiniz**
 
 
 
 > [!NOTE]
-_">" işaretinden sonraki ilk kısım Cohorttaki başlıkları ifade etmektedir._
+_İsimlendirme Cohort başlıklarıyla yapılmıştır_
 
 
 
-+ **[firstTask.cs](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** > Week1 - Pratik İlk Uygulamam - _Basit Console çıktısı._
++ **[Week 1 - Pratik İlk Uygulamam](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** 
 
-+ **[ifElse.cs](https://github.com/aydinumu/PatikaTasks/blob/main/ifElse.cs)** > Week 1 - Pratik - If / Else - _If-Else kontrol yapısı ve ternary operator_
++ **[Week 1 - Pratik - If / Else](https://github.com/aydinumu/PatikaTasks/blob/main/ifElse.cs)** 
 
-+ **[switchCase.cs](https://github.com/aydinumu/PatikaTasks/blob/main/switchCase.cs)** > Week 1 - Pratik - If / Else ve Switch-Case - _Manav uygulaması_
++ **[Week 1 - Pratik - If / Else ve Switch-Case](https://github.com/aydinumu/PatikaTasks/blob/main/switchCase.cs)**
 
-+ **[milyoner.cs](xxxxxx)** > Week 1 - Pratik - Kim Milyoner Olmak İster ? - _Bilgi yarışması programı_
++ **[Week 1 - Pratik - Kim Milyoner Olmak İster ?](xxxxxx)**
 
-+ **[for.cs](xxxxxxx)** > Week 2 - Pratik - For Örnekleri - _For döngüsü örnek programı_
+ ----------------------------------------
 
-+ **[while.cs](xxxxx)** > Week 2 - Pratik - While Örnekleri - _While döngüsü örnek programı_
++ **[Week 2 - Pratik - For Örnekleri ](xxxxxxx)** 
 
-+ **[whileDoWhile.cs](xxxxx)** > Week 2 - Pratik - While vs Do-While - _While ve Do While farkını gösteren program_
++ **[Week 2 - Pratik - While Örnekleri ](xxxxx)** 
 
-+ **[yolArkadasi.cs](xxxxx)** > Week 2 - Pratik - Yol Arkadaşı : Tatil uygulaması - _While ve Do While farkını gösteren program_
++ **[Week 2 - Pratik - While vs Do-While](xxxxx)** 
+
++ **[Week 2 - Pratik - Yol Arkadaşı : Tatil uygulaması](xxxxx)**
+
++ **[Week 2 - Pratik - İlk Metot Uygulamamız](xxxxx)**
