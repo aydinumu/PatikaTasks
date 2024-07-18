@@ -32,6 +32,6 @@ _İsimlendirme Cohort başlıklarıyla yapılmıştır_
 
 + **[Week 2 - Pratik - Yol Arkadaşı : Tatil uygulaması](https://github.com/aydinumu/PatikaTasks/blob/main/yolArkadasi.cs)**
 
-+ **[Week 2 - Pratik - İlk Metot Uygulamamız](xxxxx)**
++ **[Week 2 - Pratik - İlk Metot Uygulamamız](https://github.com/aydinumu/PatikaTasks/blob/main/firstMethod.cs)**
 
  ----------------------------------------
