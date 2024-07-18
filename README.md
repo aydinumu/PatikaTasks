@@ -14,7 +14,7 @@ _İsimlendirme Cohort başlıklarıyla yapılmıştır_
 
 
 
-+ **[Week 1 - Pratik İlk Uygulamam](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** 
++ **[Week 1 - Pratik - İlk Uygulamam](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** 
 
 + **[Week 1 - Pratik - If / Else](https://github.com/aydinumu/PatikaTasks/blob/main/ifElse.cs)** 
 
