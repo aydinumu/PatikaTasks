@@ -33,3 +33,5 @@ _İsimlendirme Cohort başlıklarıyla yapılmıştır_
 + **[Week 2 - Pratik - Yol Arkadaşı : Tatil uygulaması](xxxxx)**
 
 + **[Week 2 - Pratik - İlk Metot Uygulamamız](xxxxx)**
+
+ ----------------------------------------
