@@ -1,6 +1,6 @@
 
 > [!CAUTION]
-> ### UMUT AYDIN Patika+ Eğitimi Pratikleri Özet Sayfası
+> # UMUT AYDIN Patika+ Eğitimi Pratikleri Özet Sayfası
 
 
 
