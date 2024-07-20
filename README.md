@@ -1,19 +1,11 @@
 
-> [!CAUTION]
-> # UMUT AYDIN Patika+ Eğitimi Pratikleri Özet Sayfası
+<img src="https://cdn.prod.website-files.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png" alt="test" width="350" height="200">
 
-
-
->  [!TIP]
-**Bu dosya içerisinde Patika+ Eğitimlerindeki Tamamladığım Pratikleri Bulabilirsiniz**
-
-
-
-> [!NOTE]
-_İsimlendirme Cohort başlıklarıyla yapılmıştır_
-
+> [!IMPORTANT]
+> ## UMUT AYDIN Patika+ Eğitimi Pratikleri Özet Sayfası
 
  ----------------------------------------
+
  
 + **[Week 1 - Pratik - İlk Uygulamam](https://github.com/aydinumu/PatikaTasks/blob/main/firstTask.cs)** 
 
@@ -24,6 +16,7 @@ _İsimlendirme Cohort başlıklarıyla yapılmıştır_
 + **[Week 1 - Pratik - Kim Milyoner Olmak İster ?](https://github.com/aydinumu/PatikaTasks/blob/main/milyoner.cs)**
 
  ----------------------------------------
+
 
 + **[Week 2 - Pratik - For Örnekleri ](https://github.com/aydinumu/PatikaTasks/blob/main/for.cs)** 
 
