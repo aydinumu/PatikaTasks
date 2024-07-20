@@ -50,7 +50,7 @@ namespace ConsoleApp
 
             Console.Write("Kaç kişilik rezervasyon yaptıracaksınız : ");
             int personCount = Convert.ToInt32(Console.ReadLine());
-            if (personCount < 1)
+            if (personCount < 1) //Kullanıcı kişi sayısını pozitif bir rakam girmezse, hesaplamayıp kapatıyorum.
             {
                 Console.WriteLine("Bu kişi sayısı için hesap yapmamıza gerek yok zaten ilginiz için teşekkürler. Program kapatılıyor");
                 Environment.Exit(0);
@@ -58,7 +58,7 @@ namespace ConsoleApp
             Console.WriteLine($"{tripDecision.ToUpperInvariant()} için {personCount} kişi ara toplam : {pricePerPerson * personCount}");
 
             Console.WriteLine("------------------------------------------");
-            switch (tripDecision)
+            switch (tripDecision) //Kullanıcıya gideceği yerle ilgili bilgi veriliyor.
             {
                 case "bodrum":
                     Console.WriteLine("Bodrum, Türkiye'nin en popüler tatil beldelerinden biridir. Eşsiz koyları, beyaz evleri ve canlı gece hayatıyla ünlüdür. Bodrum Kalesi'ni ziyaret edebilir, antik tiyatroyu görebilir ve Barlar Sokağı'nda eğlenceli bir gece geçirebilirsiniz. Ayrıca, Bodrum’un kristal berraklığındaki denizinde yüzmeyi ve su sporları yapmayı unutmayın.");
@@ -88,7 +88,7 @@ namespace ConsoleApp
                         Console.WriteLine("------------------------------------------");
                         Console.WriteLine("Yeterince trollediniz :D");
                         Console.WriteLine("Program kapatılıyor görüşmek üzere.");
-                        Environment.Exit(0);
+                        Environment.Exit(0); //Programı kapatıyor
                     }
 
                     Console.WriteLine("Lütfen '1' veya '2' seçeneklerinden birini seçiniz");
@@ -97,7 +97,7 @@ namespace ConsoleApp
                 }
             } while (travelDecision != "1" && travelDecision != "2");
 
-            int travelPrice = 0;
+            int travelPrice = 0; //Seçilen yolculuğa göre fiyat ataması yapılıyor
             switch (travelDecision)
             {
                 case "1":
