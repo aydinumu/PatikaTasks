@@ -28,4 +28,6 @@
 
 + **[Week 2 - Pratik - İlk Metot Uygulamamız](https://github.com/aydinumu/PatikaTasks/blob/main/firstMethod.cs)**
 
++ **[Week 2 - 💣💣💣 Hafta 2 - Kapanış 💣💣💣](https://github.com/aydinumu/PatikaTasks/blob/main/hafta2Kapanis.cs)**
+
  ----------------------------------------
