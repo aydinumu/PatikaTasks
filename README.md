@@ -1,5 +1,5 @@
 
-<img src="https://cdn.prod.website-files.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png" alt="test" width="350" height="200">
+<img src="https://cdn.prod.website-files.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png" alt="test" width="175" height="100">
 
 > [!IMPORTANT]
 > ## UMUT AYDIN Patika+ Eğitimi Pratikleri Özet Sayfası
@@ -31,3 +31,8 @@
 + **[Week 2 - 💣💣💣 Hafta 2 - Kapanış 💣💣💣](https://github.com/aydinumu/PatikaTasks/blob/main/hafta2Kapanis.cs)**
 
  ----------------------------------------
+
+
++ **[Week 3 - C# Fundamentals Project ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
+
+----------------------------------------
