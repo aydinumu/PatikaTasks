@@ -18,7 +18,7 @@
 
 + **[Week 4 - Patika Kütüphane ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 --> 
-+ **[Week 4 - Constructor ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Constructor ](https://github.com/aydinumu/PatikaTasks/blob/main/constructor.cs)**
 
 + **[Week 4 - İlk Sınıfımızı Oluşturuyoruz](https://github.com/aydinumu/PatikaTasks/blob/main/firstClass.cs)**
   
