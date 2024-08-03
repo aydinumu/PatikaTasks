@@ -15,10 +15,10 @@ namespace ConsoleApp1
             Baby baby1 = new Baby(); // Creating a Baby object using the default constructor
             baby1._name = "Umut";
             baby1._surname = "Aydın";
-            baby1.BebekInfo();
+            baby1.BabyInfo();
 
             Baby baby2 = new Baby("Ahmet", "Çalışkan"); // Creating a Baby object using the constructor with parameters
-            baby2.BebekInfo();  
+            baby2.BabyInfo();
         }
     }
 
@@ -42,9 +42,9 @@ namespace ConsoleApp1
             Console.WriteLine("Ingaaaaa!");
         }
               
-        public void BebekInfo()  // Method to print out information about the Baby object
+        public void BabyInfo()  // Method to print out information about the Baby object
         {
-            Console.WriteLine($"Ad: {_name}, Soyad: {_surname}, Dogum Tarihi: {_birthday}");
+            Console.WriteLine($"name: {_name}, surname: {_surname}, birthday: {_birthday}");
         }
     }
   
