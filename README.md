@@ -13,10 +13,10 @@
 + **[Week 4 - Polymorphism ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 
 + **[Week 4 - Inheritance ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
-
-+ **[Week 4 - Encapsulation ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 --> 
-+ **[Week 4 - Patika Kütüphane ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Encapsulation ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
+
++ **[Week 4 - Patika Kütüphane ](https://github.com/aydinumu/PatikaTasks/blob/main/patikaKutuphane.cs)**
 
 + **[Week 4 - Constructor ](https://github.com/aydinumu/PatikaTasks/blob/main/constructor.cs)**
 
