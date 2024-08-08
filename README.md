@@ -8,23 +8,23 @@
 <!-- 
 + **[Week 4 - 💣💣💣 Hafta 4 - Kapanış 💣💣💣 ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)** 
 
-+ **[Week 4 - Abstarction ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Pratik - Abstarction ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 
-+ **[Week 4 - Polymorphism ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Pratik - Polymorphism ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 
-+ **[Week 4 - Inheritance ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Pratik - Inheritance ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 --> 
-+ **[Week 4 - Encapsulation ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Pratik - Encapsulation ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 
-+ **[Week 4 - Patika Kütüphane ](https://github.com/aydinumu/PatikaTasks/blob/main/patikaKutuphane.cs)**
++ **[Week 4 - Pratik - Patika Kütüphane ](https://github.com/aydinumu/PatikaTasks/blob/main/patikaKutuphane.cs)**
 
-+ **[Week 4 - Constructor ](https://github.com/aydinumu/PatikaTasks/blob/main/constructor.cs)**
++ **[Week 4 - Pratik - Constructor ](https://github.com/aydinumu/PatikaTasks/blob/main/constructor.cs)**
 
-+ **[Week 4 - İlk Sınıfımızı Oluşturuyoruz](https://github.com/aydinumu/PatikaTasks/blob/main/firstClass.cs)**
++ **[Week 4 - Pratik - İlk Sınıfımızı Oluşturuyoruz](https://github.com/aydinumu/PatikaTasks/blob/main/firstClass.cs)**
   
  ----------------------------------------
   
-+ **[Week 3 - C# Fundamentals Project ](https://media.istockphoto.com/id/476438574/tr/vekt%C3%B6r/top-secret-rubber-stamp-ink-imprint-icon.jpg?s=612x612&w=0&k=20&c=joxNH-GQyZhWgkWwhAhF64gTerG2HKVvFpTYxgjJLD0=)**
++ **[Week 3 - C# Fundamentals Project ](https://github.com/aydinumu/FundementalsProject)**
   
  ----------------------------------------
  
