@@ -54,7 +54,7 @@
 
 + **[Week 4 - 💣💣💣 Hafta 4 - Kapanış 💣💣💣 ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)** 
 
-+ **[Week 4 - Pratik - Abstarction ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 4 - Pratik - Abstarction ](https://github.com/aydinumu/PatikaTasks/blob/main/abstraction.cs)**
 
 + **[Week 4 - Pratik - Polymorphism ](https://github.com/aydinumu/PatikaTasks/blob/main/polymorphism.cs)**
 
