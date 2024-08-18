@@ -11,14 +11,14 @@ namespace ConsoleApp1
     {
         private static void Main(string[] args)
         {
-            string answer = "y";
-            while (answer != "q") // Creating a loop to control program flow
+            string userInput = "y";
+            while (userInput != "q") // Creating a loop to control program flow
             {
                 Console.WriteLine("\nPress '1' to submit Phone, Press '2' to submit Computer, Press 'Q' to quit program,");
                 Console.Write("( 1 / 2 / Q ) : ");
-                answer = Console.ReadLine().ToLower();
+                userInput = Console.ReadLine().ToLower();
 
-                switch (answer)
+                switch (userInput)
                 {
                     case "1":
                         {
