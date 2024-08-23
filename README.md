@@ -47,7 +47,7 @@
 
 + **[Week 5 - Pratik - Lists 1 ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 
-+ **[Week 5 - Pratik - Array ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 5 - Pratik - Array ](https://github.com/aydinumu/PatikaTasks/blob/main/array.cs)**
 
 
  ----------------------------------------
