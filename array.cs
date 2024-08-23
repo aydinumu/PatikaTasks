@@ -8,16 +8,6 @@ Print the array elements in descending order.
 
 // Note: A separate README file is not used as all tasks are completed within a single file.
 
-/*
-Tasks:
-Define an array that will hold 10 integer values.
-Fill the elements of this array using a for loop, then print them to the console using a foreach loop.
-Add a new value, taken from the user, to this array as the 11th element.
-Print the array elements in descending order.
-*/
-
-// Note: A separate README file is not used as all tasks are completed within a single file.
-
 using System.Collections.Immutable;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
