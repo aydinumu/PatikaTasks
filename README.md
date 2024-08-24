@@ -41,11 +41,11 @@
 
 + **[Week 5 - Pratik - Try - Catch ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 
-+ **[Week 5 - Pratik - IMDB Listesi ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 5 - Pratik - IMDB Listesi ](https://github.com/aydinumu/PatikaTasks/blob/main/imdbList.cs)**
 
-+ **[Week 5 - Pratik - Lists 2 ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 5 - Pratik - Lists 2 ](https://github.com/aydinumu/PatikaTasks/blob/main/lists2.cs)**
 
-+ **[Week 5 - Pratik - Lists 1 ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 5 - Pratik - Lists 1 ](https://github.com/aydinumu/PatikaTasks/blob/main/lists1.cs)**
 
 + **[Week 5 - Pratik - Array ](https://github.com/aydinumu/PatikaTasks/blob/main/array.cs)**
 
