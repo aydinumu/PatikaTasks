@@ -21,7 +21,7 @@
 + **[Week 7 - Pratik - Patikafy Müzik Platformu ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
  
 + **[Week 7 - Pratik - Linq](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
-  
+  --> 
 ----------------------------------------
 
 + **[Week 6 - Pratik - Alt Sorgular ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
@@ -34,12 +34,12 @@
  
 + **[Week 6 - Pratik - SQL Temelleri ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
   
- --> 
+ 
 ----------------------------------------
 
-+ **[Week 4 - 💣💣💣 Hafta 5 - Kapanış 💣💣💣 ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)** 
++ **[Week 4 - 💣💣💣 Hafta 5 - Kapanış 💣💣💣 ](https://github.com/aydinumu/PatikaTasks/blob/main/hafta5Kapanis.cs)** 
 
-+ **[Week 5 - Pratik - Try - Catch ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 5 - Pratik - Try - Catch ](https://github.com/aydinumu/PatikaTasks/blob/main/tryCatch.cs)**
 
 + **[Week 5 - Pratik - IMDB Listesi ](https://github.com/aydinumu/PatikaTasks/blob/main/imdbList.cs)**
 
