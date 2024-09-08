@@ -16,7 +16,7 @@
 
 + **[Week 7 - Pratik - Link Group ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
   
-+ **[Week 7 - Pratik - Linq join ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
++ **[Week 7 - Pratik - Linq join ](https://github.com/aydinumu/PatikaTasks/blob/main/linqJoin.cs)**
   
 + **[Week 7 - Pratik - Patikaflix Dizi Platformu ](https://github.com/aydinumu/PatikaTasks/blob/main/patikaflix.cs)**
   
