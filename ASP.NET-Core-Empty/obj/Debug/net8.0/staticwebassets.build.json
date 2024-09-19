@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+mXi2K8UARcdArmZ/USYb7r9rUSeako0ZTQVfiDgOyM=",
+  "Source": "ASP.NET-Core-Empty",
+  "BasePath": "_content/ASP.NET-Core-Empty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET-Core-Empty\\wwwroot",
+      "Source": "ASP.NET-Core-Empty",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\ASP.NET-Core-Empty\\ASP.NET-Core-Empty\\wwwroot\\",
+      "BasePath": "_content/ASP.NET-Core-Empty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
