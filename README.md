@@ -8,10 +8,12 @@
 ----------------------------------------
 
 + **[Week 8 - C# FINAL PROJECT ](https://github.com/aydinumu/FundementalsProject)**
-
-----------------------------------------
-+ **[Week 7 - Pratik -  ](https://t3.ftcdn.net/jpg/05/17/31/54/360_F_517315479_5APCsHqS3fFO0NAHewzDu9XS8Y2PhLBy.jpg)**
 --> 
+----------------------------------------
++ **[Week 8 - Pratik - Basic MVC ](https://github.com/aydinumu/PatikaTasks/tree/main/ASP.NET-Core-Empty)**
+
++ **[Week 8 - Pratik - ASP.NET Core Empty ](https://github.com/aydinumu/PatikaTasks/tree/main/ASP.NET-Core-Empty)**
+
 ----------------------------------------
 
 + **[Week 7 - Pratik - Link Group ](https://github.com/aydinumu/PatikaTasks/blob/main/linqGroupJoin.cs)**
