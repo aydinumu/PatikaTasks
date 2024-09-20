@@ -1,0 +1,42 @@
+﻿@model BasicMVC.Models.CustomerOrderViewModel
+
+@{
+	ViewData["Title"] = "Customer Orders";
+}
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container mt-4">
+	<h2 class="mb-4">Customer Information</h2>
+
+	<ul class="list-group">
+		<li class="list-group-item"><strong>ID:</strong> @Model.Customer.Id</li>
+		<li class="list-group-item"><strong>First Name:</strong> @Model.Customer.FirstName</li>
+		<li class="list-group-item"><strong>Last Name:</strong> @Model.Customer.LastName</li>
+		<li class="list-group-item"><strong>Email:</strong> @Model.Customer.Email</li>
+	</ul>
+
+	<h2 class="mt-5">Order List</h2>
+
+	<table class="table table-striped mt-3">
+		<thead class="thead-dark">
+			<tr>
+				<th>Order ID</th>
+				<th>Product Name</th>
+				<th>Price</th>
+				<th>Quantity</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var order in Model.Orders)
+			{
+				<tr>
+					<td>@order.Id</td>
+					<td>@order.ProductName</td>
+					<td>@order.Price</td>
+					<td>@order.Quantity</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
