@@ -6,10 +6,9 @@
 
 <!-- 
 ----------------------------------------
-
-+ **[Week 8 - C# FINAL PROJECT ](https://github.com/aydinumu/FundementalsProject)**
 --> 
-----------------------------------------
++ **[Week 12 - Code First Basic ](https://github.com/aydinumu/CodeFirstBasic/tree/master/CodeFirstBasic)**
+
 + **[Week 8 - Pratik - Basic MVC ](https://github.com/aydinumu/PatikaTasks/tree/main/ASP.NET-Core-Empty)**
 
 + **[Week 8 - Pratik - ASP.NET Core Empty ](https://github.com/aydinumu/PatikaTasks/tree/main/ASP.NET-Core-Empty)**
